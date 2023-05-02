@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora Full-Stack</h3>
 
 <h3>Sobre mim</h3>
-<p>Olá! Sou a Raquel tenho 24 anos, e sou de São Paulo,SP.Tenho curso técnico em design Gráfico e bacharel em Administração, como sou apaixonada por tecnologia e Jogos Digitais, hoje, estou fazendo o curso de desenvolvimento Web Fullstack da Trybe, onde já aprendi sobre várias linguagens e adquiri diversas habilidades em hard skills e soft skills , como por exemplo JavaScrispt, HTML, CSS, NodeJS, React, Redux, RTL, SQL, MongoDB, gestão de tempo, criatividade, comunicação e autogestão, e ainda aprendendo muito mais, com uma empolgação enorme para colocar minhas habilidades em prática profissionalmente na área da tecnologia.</p>
+<p>Olá! Sou a Raquel tenho 25 anos, e sou de São Paulo,SP.Tenho curso técnico em design Gráfico e bacharel em Administração, como sou apaixonada por tecnologia e Jogos Digitais, hoje, estou fazendo o curso de desenvolvimento Web Fullstack da Trybe, onde já aprendi sobre várias linguagens e adquiri diversas habilidades em hard skills e soft skills , como por exemplo JavaScrispt, HTML, CSS, NodeJS, React, Redux, RTL, SQL, MongoDB, gestão de tempo, criatividade, comunicação e autogestão, e ainda aprendendo muito mais, com uma empolgação enorme para colocar minhas habilidades em prática profissionalmente na área da tecnologia.</p>
 
 - 🔭 Estou trabalhando atualmente no projeto [Eternação Games](https://www.instagram.com/eternacaogames/)
 
